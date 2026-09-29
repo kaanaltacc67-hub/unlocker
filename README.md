@@ -1,4 +1,4 @@
-# 🔓 Smartest.bg Locked Exam Bypass
+# 🔓 Smartest.bg Locked Exam Bypass (Chromebook Edition)
 
 A simple step-by-step guide on how to exit and bypass the locked full-screen exam mode on [Smartest.bg](https://www.smartest.bg).
 
